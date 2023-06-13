@@ -9,12 +9,12 @@
 - Attained better communication and developed stakeholder friendly attitude skills through meetings with stakeholders, System developers, other teams, and external business partners.
 
 
-This is my skill set.
-- Languages: HTML, CSS, Javascript/Typescript, PHP, Python, Ruby, Go, SQL
-- Frontend: React(with Redux, Hooks), Next, React Native, Angular, Vue, Nuxt
-- UI: MUI, Semantic UI, Tailwind CSS, Styled Components, Bootstrap, SCSS/SASS
-- Backend: Node, Express, Nest, CI, Laravel, Django, Flask, Ruby on Rails, Firebase, GraphQL
-- Databases: MongoDB, MySQL, SQLite, PostgreSQL
-- Test: Jest, Cypress, Puppeteer, Playwright
-- Cloud: AWS, GCP, Azure
-- Tools: Git, Github, Gitlab, Bitbucket, Netlify, Heroku, Vercel, Trello, Jira, Asana, Microsoft Teams, Slack
+## Core Skills
+- <b>Languages</b>: HTML, CSS, Javascript/Typescript, PHP, Python, Ruby, Go, SQL
+- <b>Frontend</b>: React(with Redux, Hooks), Next, React Native, Angular, Vue, Nuxt
+- <b>UI</b>: MUI, Semantic UI, Tailwind CSS, Styled Components, Bootstrap, SCSS/SASS
+- <b>Backend</b>: Node, Express, Nest, CI, Laravel, Django, Flask, Ruby on Rails, Firebase, GraphQL
+- <b>Databases</b>: MongoDB, MySQL, SQLite, PostgreSQL
+- <b>Test</b>: Jest, Cypress, Puppeteer, Playwright
+- <b>Cloud</b>: AWS, GCP, Azure
+- <b>Tools</b>: Git, Github, Gitlab, Bitbucket, Netlify, Heroku, Vercel, Trello, Jira, Asana, Microsoft Teams, Slack
