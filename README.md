@@ -10,10 +10,10 @@
 
 
 This is my skill set.
-- Languages: HTML, CSS, Javascript/Typescript, PHP, Python, Ruby, Go, C++/C#, SQL
+- Languages: HTML, CSS, Javascript/Typescript, PHP, Python, Ruby, Go, SQL
 - Frontend: React(with Redux, Hooks), Next, React Native, Angular, Vue, Nuxt
 - UI: MUI, Semantic UI, Tailwind CSS, Styled Components, Bootstrap, SCSS/SASS
-- Backend: Node, Express, Nest, CI, Laravel, Django, Flask, Ruby on Rails, .NET, Firebase, GraphQL
+- Backend: Node, Express, Nest, CI, Laravel, Django, Flask, Ruby on Rails, Firebase, GraphQL
 - Databases: MongoDB, MySQL, SQLite, PostgreSQL
 - Test: Jest, Cypress, Puppeteer, Playwright
 - Cloud: AWS, GCP, Azure
